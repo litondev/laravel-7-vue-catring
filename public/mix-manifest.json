@@ -1,0 +1,14 @@
+{
+    "/js/ user-signup.bundle.js": "/js/ user-signup.bundle.js",
+    "/assets/js/user.js": "/assets/js/user.js",
+    "/js/user-cart.bundle.js": "/js/user-cart.bundle.js",
+    "/js/user-cart~user-home~user-notification~user-product~user-profil.bundle.js": "/js/user-cart~user-home~user-notification~user-product~user-profil.bundle.js",
+    "/js/user-home.bundle.js": "/js/user-home.bundle.js",
+    "/js/user-home~user-product.bundle.js": "/js/user-home~user-product.bundle.js",
+    "/js/user-notification.bundle.js": "/js/user-notification.bundle.js",
+    "/js/user-product.bundle.js": "/js/user-product.bundle.js",
+    "/js/user-profil.bundle.js": "/js/user-profil.bundle.js",
+    "/js/user-cart~user-home~user-notification~user-profil.bundle.js": "/js/user-cart~user-home~user-notification~user-profil.bundle.js",
+    "/js/user-product-detail.bundle.js": "/js/user-product-detail.bundle.js",
+    "/js/user-cart~user-home~user-notification~user-product~user-product-detail~user-profil.bundle.js": "/js/user-cart~user-home~user-notification~user-product~user-product-detail~user-profil.bundle.js"
+}
